@@ -7,6 +7,10 @@
 <img src="https://github.com/sakshimoradiya/re_pr2_sakshi_2453/assets/131337231/81f34b89-b8ec-42f0-a7ed-36eaa8858097" width="250"></img>
 <img src="https://github.com/sakshimoradiya/re_pr2_sakshi_2453/assets/131337231/b8dc5ea9-d52c-43cc-ad4a-c05db9c0f583" width="250"></img>
 
+
+https://github.com/sakshimoradiya/re_pr2_sakshi_2453/assets/131337231/fc142573-c3b4-4190-8998-6306c0b2044d
+
+
 **Here description for your E-commerce application:**
 1. Keep it concise: A short description should be brief and to the point. It should provide a quick overview of what your application does and what makes it unique.
 2. Highlight key features: Focus on the most important features of your application. This will help users understand what your application does and how it can benefit them.
