@@ -7,37 +7,32 @@
 <img src="https://github.com/sakshimoradiya/re_pr2_sakshi_2453/assets/131337231/81f34b89-b8ec-42f0-a7ed-36eaa8858097" width="250"></img>
 <img src="https://github.com/sakshimoradiya/re_pr2_sakshi_2453/assets/131337231/b8dc5ea9-d52c-43cc-ad4a-c05db9c0f583" width="250"></img>
 
+**Here description for your E-commerce application:**
+1. Keep it concise: A short description should be brief and to the point. It should provide a quick overview of what your application does and what makes it unique.
+2. Highlight key features: Focus on the most important features of your application. This will help users understand what your application does and how it can benefit them.
+3. Use keywords: Use relevant keywords in your short description to help users find your application when they search for related terms.
+4. Be creative: A short description is an opportunity to showcase your creativity. Use language that is engaging and memorable to make your application stand out.
+5. Be honest: Be honest about what your application does and what users can expect from it. This will help build trust with your users and encourage them to use your application.
 
-*NOTE:
-- App must contain one time intro screen using shared preferences.
-- App must have at least 5 pages.
-- App must be created in proper MVC architecture.
-- State Management can be in your preferred choice.
-- UI/UX of the application also will be considered in marking criterias. *
-Task: 
-- Create an E commerce application which fetch data from API: https://dummyjson.com/products?limit=100 
-- App must have firebase and google authentication. Store authentication info in share preferences so login screen will be appeared only once.
-- Favourite products of the user will be stored in local database using 'sqflite' package.
-- Cart products will be stored in cloud firestore.
-- Also add an admin login feature that displays the all cart products of all the users of the application.
-- CRUD operations will be done in favourite and cart both page. 
-Marking criteria’s :
 
-App features: [ marks: 30 / 50 ]
-- App must satisfy the given criterias with all working functionalities.
-- 10 marks: well proper use of plugins and their features.
-- 10 marks: MVC pattern.
-- 10 marks: Logical mindset in the app.
+**Dependencies**
 
-UI/UX and color pattern: [ marks: 15 / 50 ]
-- App must contain eye catching UI and easy to use and understand UX in all pages.
-- 5 marks: appropriately used built in widgets with proper design guidelines and paddings.
-- 5 marks: widget customization and color combinations.
-- 5 marks: must use custom animation. Packages and Hero widget won't be considered.
-
-Submission: [ marks: 5 / 50 ]
-- Submission should be done in proper github private repository and detailed README.md file..
-- 2 marks: Screen recording
-- 1 mark: all UI screenshots.
-- 1 mark: app description
-
+  cupertino_icons: ^1.0.2                                                                                                                                                                                               
+  
+  firebase_core: any.
+  
+  firebase_auth: any
+  
+  google_sign_in: any
+  
+  cloud_firestore: any
+  
+  provider: ^6.0.5
+  
+  shared_preferences: any
+  
+  gap: any
+  
+  get: ^4.6.5
+  
+  dio: any
