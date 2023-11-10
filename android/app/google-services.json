@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "378259077893",
+    "project_id": "ecom-r2",
+    "storage_bucket": "ecom-r2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378259077893:android:1eb9abbe46a40d5221956c",
+        "android_client_info": {
+          "package_name": "com.example.re_pr2_sakshi_2453"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5opYN3wWxYgiTCTGulzBbJ-SNkUjF1UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
