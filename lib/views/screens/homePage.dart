@@ -31,7 +31,7 @@ class _HomePageState extends State<HomePage> {
                       MyRoutes.favouritePage,
                     );
                   },
-                  icon: Icon(Icons.favorite),
+                  icon: const Icon(Icons.favorite),
                 ),
                 IconButton(
                   onPressed: () {
@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
               builder: (context, snapshot) {
                 if (snapshot.hasData) {
                   return GridView.builder(
-                    gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+                    gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
                       crossAxisCount: 2,
                       mainAxisExtent: 300,
                     ),
@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
                           child: GridTile(
                             child: Column(
                               children: [
-                                Container(
+                                 Container(
                                   height: 160,
                                   width: 200,
                                   decoration: BoxDecoration(
@@ -147,9 +147,9 @@ class _HomePageState extends State<HomePage> {
                                 const SizedBox(
                                   height: 2,
                                 ),
-                                Row(
+                                const Row(
                                   children: [
-                                    const SizedBox(
+                                    SizedBox(
                                       width: 6,
                                     ),
                                      // Text(

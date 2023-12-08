@@ -16,7 +16,7 @@ class ProductModal {
     required this.price,
     required this.id,
     required this.title,
-    this.quantity = 1,
+    this.quantity = 0,
   });
 
   factory ProductModal.fromMap({required Map data}) {
